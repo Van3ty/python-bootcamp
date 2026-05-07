@@ -1,0 +1,8 @@
+2026-05-07 20:27:14,540 - INFO - Application started
+2026-05-07 20:27:14,575 - INFO - System information displayed successfully
+2026-05-07 20:27:28,871 - INFO - Application started
+2026-05-07 20:27:28,908 - INFO - System information displayed successfully
+2026-05-08 00:10:48,832 - INFO - Application started
+2026-05-08 00:10:48,832 - ERROR - An error occurred: module 'platform' has no attribute 'system_wrong'
+2026-05-08 00:12:17,914 - INFO - Application started
+2026-05-08 00:12:18,031 - INFO - System information displayed successfully
