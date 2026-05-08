@@ -6,3 +6,5 @@
 2026-05-08 00:10:48,832 - ERROR - An error occurred: module 'platform' has no attribute 'system_wrong'
 2026-05-08 00:12:17,914 - INFO - Application started
 2026-05-08 00:12:18,031 - INFO - System information displayed successfully
+2026-05-08 12:18:04,886 - INFO - Application started
+2026-05-08 12:18:04,922 - INFO - System information displayed successfully
