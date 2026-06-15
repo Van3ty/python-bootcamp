@@ -1,0 +1,2 @@
+Today I started learning file handling.
+I survived day 1 and day 2.
