@@ -1,0 +1,14 @@
+import json
+
+book = {
+    "title" :  "Python Crash Course",
+    "price" : 35,
+    "rating" : 5,
+}
+
+book["author"] = "Eric Matthes"
+book["price"] = 30
+
+with open("book.json", "r") as file:
+    data = json.load(file)
+print(data)
