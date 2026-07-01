@@ -1,0 +1,21 @@
+task1 :
+SELECT *
+FROM books;
+
+task 2:
+SELECT title, rating
+FROM books;
+
+task 3:
+SELECT *
+FROM books
+WHERE rating > 12;
+
+task 4:
+SELECT * 
+FROM books
+ORDER BY rating DESC;
+
+task 5:
+SELECT AVG(rating), MAX(price)
+FROM books;
